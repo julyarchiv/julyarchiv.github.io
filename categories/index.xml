@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on জুলাই আর্কাইভ - July Archive</title>
-    <link>//localhost:1313/categories/</link>
+    <link>//localhost:39355/categories/</link>
     <description>Recent content in Categories on জুলাই আর্কাইভ - July Archive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:39355/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>খবর</title>
-      <link>//localhost:1313/categories/%E0%A6%96%E0%A6%AC%E0%A6%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/%E0%A6%96%E0%A6%AC%E0%A6%B0/</guid>
+      <link>//localhost:39355/categories/%E0%A6%96%E0%A6%AC%E0%A6%B0/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:39355/categories/%E0%A6%96%E0%A6%AC%E0%A6%B0/</guid>
       <description></description>
     </item>
   </channel>
