@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation on July Archive</title>
+    <title>Docs on জুলাই আর্কাইভ - July Archive</title>
     <link>//localhost:1313/docs/</link>
-    <description>Recent content in Documentation on July Archive</description>
+    <description>Recent content in Docs on জুলাই আর্কাইভ - July Archive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jan 2022 14:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting started</title>
-      <link>//localhost:1313/docs/getting-started/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/getting-started/</guid>
-      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal&#xA;configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar&#xA;with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Customization</title>
-      <link>//localhost:1313/docs/customization/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/customization/</guid>
-      <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or&#xA;via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,&#xA;and more.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frequently asked questions (FAQ)</title>
-      <link>//localhost:1313/docs/faq/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/faq/</guid>
-      <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere&#xA;in the documentation.&lt;/p&gt;</description>
+      <title>পোস্ট করুন</title>
+      <link>//localhost:1313/docs/submit/</link>
+      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/submit/</guid>
+      <description>Submit Post Install Signal Setup a Signal username. Setting a username hides your Phone Number. DO NOT SHARE YOUR PHONE NUMBER. Join our Signal Group: https://signal.group/#CjQKII2kYg2q_g41xFbPbIoJvH0ADuGIoWXK1QW0s012JTkdEhAbR8FWWyZeNiiBhepEdGxd Submit your post, along with valid source and proof of validity. If your post is not valid, then it won&amp;rsquo;t be included on our site. </description>
     </item>
   </channel>
 </rss>

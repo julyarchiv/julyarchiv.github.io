@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>জুলাই আর্কাইভ - July Archive</title>
-    <link>//localhost:39355/</link>
+    <link>/</link>
     <description>Recent content on জুলাই আর্কাইভ - July Archive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Jan 2022 14:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:39355/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>পরিসংখ্যান</title>
-      <link>//localhost:39355/statistics/</link>
+      <link>/statistics/</link>
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>//localhost:39355/statistics/</guid>
+      <guid>/statistics/</guid>
       <description>মৃতের সংখ্যা:&#xA;Number of Deaths:</description>
     </item>
     <item>
       <title>পোস্ট করুন</title>
-      <link>//localhost:39355/submit/</link>
+      <link>/submit/</link>
       <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
-      <guid>//localhost:39355/submit/</guid>
-      <description>Submit Post Install Signal Setup a Signal username. Setting a username hides your Phone Number. DO NOT SHARE YOUR PHONE NUMBER. Join our Signal Group: https://signal.group/#CjQKII2kYg2q_g41xFbPbIoJvH0ADuGIoWXK1QW0s012JTkdEhAbR8FWWyZeNiiBhepEdGxd Submit your post, along with valid source and proof of validity. If your post is not valid, then it won&amp;rsquo;t be included on our site. </description>
+      <guid>/submit/</guid>
+      <description>Submit Post Install Signal messaging app from Play Store/App Store or on your computer. Setup a Signal username. Setting a username hides your Phone Number. DO NOT SHARE YOUR PHONE NUMBER Join our Signal Group: https://signal.group/#CjQKII2kYg2q_g41xFbPbIoJvH0ADuGIoWXK1QW0s012JTkdEhAbR8FWWyZeNiiBhepEdGxd Submit your post, along with valid source and proof of validity. If your post is not valid, then it won&amp;rsquo;t be included on our site </description>
     </item>
     <item>
       <title>উদাহরণ 3</title>
-      <link>//localhost:39355/post/basic-elements/</link>
+      <link>/post/basic-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:39355/post/basic-elements/</guid>
+      <guid>/post/basic-elements/</guid>
       <description>&amp;hellip;</description>
     </item>
     <item>
       <title>উদাহরণ 1</title>
-      <link>//localhost:39355/post/hugo-template-primer/</link>
+      <link>/post/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:39355/post/hugo-template-primer/</guid>
+      <guid>/post/hugo-template-primer/</guid>
       <description>Example</description>
     </item>
     <item>
       <title>উদাহরণ 2</title>
-      <link>//localhost:39355/post/getting-started-with-hugo/</link>
+      <link>/post/getting-started-with-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:39355/post/getting-started-with-hugo/</guid>
+      <guid>/post/getting-started-with-hugo/</guid>
       <description>Example </description>
     </item>
   </channel>

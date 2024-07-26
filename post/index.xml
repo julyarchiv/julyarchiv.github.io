@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on জুলাই আর্কাইভ - July Archive</title>
-    <link>//localhost:39355/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on জুলাই আর্কাইভ - July Archive</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:39355/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>উদাহরণ 3</title>
-      <link>//localhost:39355/post/basic-elements/</link>
+      <link>/post/basic-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:39355/post/basic-elements/</guid>
+      <guid>/post/basic-elements/</guid>
       <description>&amp;hellip;</description>
     </item>
     <item>
       <title>উদাহরণ 1</title>
-      <link>//localhost:39355/post/hugo-template-primer/</link>
+      <link>/post/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:39355/post/hugo-template-primer/</guid>
+      <guid>/post/hugo-template-primer/</guid>
       <description>Example</description>
     </item>
     <item>
       <title>উদাহরণ 2</title>
-      <link>//localhost:39355/post/getting-started-with-hugo/</link>
+      <link>/post/getting-started-with-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>//localhost:39355/post/getting-started-with-hugo/</guid>
+      <guid>/post/getting-started-with-hugo/</guid>
       <description>Example </description>
     </item>
   </channel>
